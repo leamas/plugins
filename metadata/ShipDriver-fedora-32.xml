@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin version="1">
+  <name> ShipDriver </name>
+  <version> 2.5.39+2010141016.1fb5323 </version>
+  <release> 1 </release>
+  <summary> Ship movements simulator - or is it a game? </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/shipdriver_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/shipdriver.html </info-url>
+
+  <description> Simulates navigation of a vessel. Using the sail option and a current
+grib file for wind data, simulates how a sailing vessel might react in
+those conditions. Using 'Preferences' the simulator is able to record AIS
+data from itself. This can be replayed to simulate collision situations.
+ </description>
+
+  <target>fedora</target>
+  <target-version>32</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/shipdriver-beta/raw/names/ShipDriver-fedora-32-tarball/versions/2.5.39+2010141016.1fb5323/ShipDriver-2.5.39+2010141016.1fb5323_fedora-32-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 5d92d73e9cafc209a8ac93ec1d27b1d2e6cfed1699dc637c2f0c0ed9079c82ab </tarball-checksum>
+</plugin>
