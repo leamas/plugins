@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 2.5.39+3651.a16c526 </version>
+  <version> 2.5.39+3661.422680b </version>
   <release> 1 </release>
   <summary> Ship movements simulator - or is it a game? </summary>
 
@@ -20,6 +20,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>darwin</target>
   <target-version>10.13.6</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-darwin-10.13.6-tarball/versions/2.5.39+3651.a16c526/ShipDriver-2.5.39+3651.a16c526_darwin-10.13.6-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 3b5abc305ae54c1726dce7873d7f63ef186beb555e8e213c3f3f62c75e81ce6e </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-darwin-10.13.6-tarball/versions/2.5.39+3661.422680b/ShipDriver-2.5.39+3661.422680b_darwin-10.13.6-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> edf1df55e313f4e64b400170d8297c40933fbf00b5322bf9da382276c13c20db </tarball-checksum>
 </plugin>
