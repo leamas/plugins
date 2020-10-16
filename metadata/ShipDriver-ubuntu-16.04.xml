@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 2.5.39+3717.5b3fd7c </version>
+  <version> 2.5.39+3727.85982ce </version>
   <release> 1 </release>
   <summary> Ship movements simulator - or is it a game? </summary>
 
@@ -20,6 +20,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>ubuntu-x86_64</target>
   <target-version>16.04</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-ubuntu-16.04-tarball/versions/2.5.39+3717.5b3fd7c/ShipDriver-2.5.39+3717.5b3fd7c_ubuntu-16.04-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 1496d0a509e74e93e22ef9f7694bdd8c260a546c30147ae51ea534cfa165d58b </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-ubuntu-16.04-tarball/versions/2.5.39+3727.85982ce/ShipDriver-2.5.39+3727.85982ce_ubuntu-16.04-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 5dfe0f5c4ea87a0a1c497cc44722b9ad9fc5052a40436932e5d34239f8d0ef3a </tarball-checksum>
 </plugin>
