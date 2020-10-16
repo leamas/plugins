@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 2.5.39+3376.3132fea </version>
+  <version> 2.5.39+3384.12fd927 </version>
   <release> 1 </release>
   <summary> Ship movements simulator - or is it a game? </summary>
 
@@ -20,6 +20,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>flatpak-x86_64</target>
   <target-version>18.08</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-flatpak-18.08-tarball/versions/2.5.39+3376.3132fea/ShipDriver-2.5.39+3376.3132fea_flatpak-18.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> ae69f1e740eb2f9d8c6c22e2218641d87ca4bb0de37f89722b089251f553b91a </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-flatpak-18.08-tarball/versions/2.5.39+3384.12fd927/ShipDriver-2.5.39+3384.12fd927_flatpak-18.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> a7003bbf4b6c2009ae40b7b6a7000f7da943060c1b32729f4da74e5bd0a3462e </tarball-checksum>
 </plugin>
