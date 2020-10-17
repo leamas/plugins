@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 2.5.39+3788.d9f9218 </version>
+  <version> 2.5.39+3804.1a21bbc </version>
   <release> 1 </release>
   <summary> Ship movements simulator - or is it a game? </summary>
 
@@ -20,6 +20,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>mingw-x86_64</target>
   <target-version>10</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-mingw-10-tarball/versions/2.5.39+3788.d9f9218/ShipDriver-2.5.39+3788.d9f9218_mingw-10-win32.tar.gz </tarball-url>
-  <tarball-checksum> cc7a5c1a6f79e42fcd84be03220846353ba5ef34addcbc953deeb82693607c78 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-mingw-10-tarball/versions/2.5.39+3804.1a21bbc/ShipDriver-2.5.39+3804.1a21bbc_mingw-10-win32.tar.gz </tarball-url>
+  <tarball-checksum> 0dc93d334ab999d269f58d9f004f3f8cd85fc56dd4781d587be8fb4c535e0aac </tarball-checksum>
 </plugin>
