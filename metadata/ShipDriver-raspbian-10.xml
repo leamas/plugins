@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 2.5.39+3776.e9dfd71 </version>
+  <version> 2.5.39+3790.d9f9218 </version>
   <release> 1 </release>
   <summary> Ship movements simulator - or is it a game? </summary>
 
@@ -20,6 +20,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>raspbian-armhf</target>
   <target-version>10</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-raspbian-10-tarball/versions/2.5.39+3776.e9dfd71/ShipDriver-2.5.39+3776.e9dfd71_raspbian-10-armhf.tar.gz </tarball-url>
-  <tarball-checksum> d08e9e1da9c87c7a0c1aaf2b7a3b8f4c277e8c5051e7c60dbc41c285a04e3e0d </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-raspbian-10-tarball/versions/2.5.39+3790.d9f9218/ShipDriver-2.5.39+3790.d9f9218_raspbian-10-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 3901196a837381af15ce01af2dbfa42d7ffc9f90fee235a55235a10a7a22c266 </tarball-checksum>
 </plugin>
