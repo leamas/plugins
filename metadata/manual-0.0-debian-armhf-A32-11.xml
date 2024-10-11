@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> manual </name>
-  <version> 0.0.1+409.2e66e25 </version>
+  <version> 0.0.1+423.e213336 </version>
   <release> 0 </release>
   <summary> Plugin and developer manual </summary>
 
@@ -21,6 +21,6 @@ This is a large download, currently around 170 Mb.
   <target>debian-armhf</target>
   <target-version>11</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-debian-armhf-A32-11-tarball/versions/0.0.1+409.2e66e25/manual-0.0.1+409.2e66e25_debian-armhf-11-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 81b7691085604cf672beb6194fc1eed1398cd170a9ac12f6979c6f7a3e5cf47b </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-debian-armhf-A32-11-tarball/versions/0.0.1+423.e213336/manual-0.0.1+423.e213336_debian-armhf-11-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 18caac891f27b05ef3878019817246970386b5773b106f2176c4e45bd5cfe471 </tarball-checksum>
 </plugin>
