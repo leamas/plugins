@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/leamas/manual_pi/406 -->
+<!-- https://circleci.com/gh/leamas/manual_pi/427 -->
 <plugin version="1">
   <name> manual </name>
-  <version> 0.0.1+406.2e66e25 </version>
+  <version> 0.0.1+427.e213336 </version>
   <release> 0 </release>
   <summary> Plugin and developer manual </summary>
 
@@ -21,6 +21,6 @@ This is a large download, currently around 170 Mb.
   <target>flatpak-aarch64</target>
   <target-version>24.08</target-version>
   <target-arch>aarch64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-flatpak-aarch64-A64-24.08-tarball/versions/0.0.1+406.2e66e25/manual-0.0.1+406.2e66e25_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> eee92a7160d286d2bdbbea0bbb52e1b0591961b8244f7c4cca27552c631d0bca </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-flatpak-aarch64-A64-24.08-tarball/versions/0.0.1+427.e213336/manual-0.0.1+427.e213336_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> 997029509bf91103d3a84c2e5d7d779b6ba369e308e7af89e089f5432666a7aa </tarball-checksum>
 </plugin>
