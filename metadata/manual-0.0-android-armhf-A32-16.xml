@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/leamas/manual_pi/408 -->
+<!-- https://circleci.com/gh/leamas/manual_pi/418 -->
 <plugin version="1">
   <name> manual </name>
-  <version> 0.0.1+408.2e66e25 </version>
+  <version> 0.0.1+418.e213336 </version>
   <release> 0 </release>
   <summary> Plugin and developer manual </summary>
 
@@ -21,6 +21,6 @@ This is a large download, currently around 170 Mb.
   <target>android-armhf</target>
   <target-version>16</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-android-armhf-A32-16-tarball/versions/0.0.1+408.2e66e25/manual-0.0.1+408.2e66e25_android-armhf-16-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 67221b4add6f5871adc541e17b70ae815625a44dc47fccf53127e18b7603edac </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-android-armhf-A32-16-tarball/versions/0.0.1+418.e213336/manual-0.0.1+418.e213336_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 834919b11a07e872287bf3e8817f506521b37b58201b893b749c40d663d7e5db </tarball-checksum>
 </plugin>
