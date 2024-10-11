@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://ci.appveyor.com/project/leamas/manual-pi/builds/50775871 -->
+<plugin version="1">
+  <name> manual </name>
+  <version> v0.0.3 </version>
+  <release> 0 </release>
+  <summary> Plugin and developer manual </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Alec Leamas </author>
+  <source> https://opencpn-manuals.github.io/main </source>
+  <info-url> https://opencpn-manuals.github.io/main </info-url>
+
+  <description> Off-line copies of the user, plugin and developer manuals
+available at https://opencpn-manuals.github.io/main
+
+This is a large download, currently around 170 Mb.
+ </description>
+
+  <target>msvc-wx32</target>
+  <target-version>10</target-version>
+  <target-arch>x86</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-stable/raw/names/manual-v0.0.3-msvc-wx32-10-tarball/versions/v0.0.3/manual-v0.0.3_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 979addafa02ecc7c9817fb88ef5386b7b13decb35a9406b7bf4a0e4683eaafea </tarball-checksum>
+</plugin>
