@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/leamas/manual_pi/366 -->
+<!-- https://circleci.com/gh/leamas/manual_pi/405 -->
 <plugin version="1">
   <name> manual </name>
-  <version> 0.0.1+366.7c2eecd </version>
+  <version> 0.0.1+405.2e66e25 </version>
   <release> 0 </release>
   <summary> Plugin and developer manual </summary>
 
@@ -21,6 +21,6 @@ This is a large download, currently around 170 Mb.
   <target>debian-wx32-x86_64</target>
   <target-version>11</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-debian-wx32-x86_64-11-tarball/versions/0.0.1+366.7c2eecd/manual-0.0.1+366.7c2eecd_debian-wx32-x86_64-11-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 25e81b46791e5a49e260137f3ec10cde327746390e6cf8261a7ce429e934b942 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-debian-wx32-x86_64-11-tarball/versions/0.0.1+405.2e66e25/manual-0.0.1+405.2e66e25_debian-wx32-x86_64-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> d6ecde39ef11ee9d95fa2cb76b08bc304e31a6ab3042c5ec1e94cb4b5b14a29a </tarball-checksum>
 </plugin>
