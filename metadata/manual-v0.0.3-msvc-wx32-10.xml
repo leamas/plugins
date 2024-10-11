@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/leamas/manual-pi/builds/50775871 -->
+<!-- https://ci.appveyor.com/project/leamas/manual-pi/builds/50777110 -->
 <plugin version="1">
   <name> manual </name>
   <version> v0.0.3 </version>
@@ -22,5 +22,5 @@ This is a large download, currently around 170 Mb.
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-stable/raw/names/manual-v0.0.3-msvc-wx32-10-tarball/versions/v0.0.3/manual-v0.0.3_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 979addafa02ecc7c9817fb88ef5386b7b13decb35a9406b7bf4a0e4683eaafea </tarball-checksum>
+  <tarball-checksum> 52a7b86cb60dcd37ad40895fc47bdd959947f6185cafd11cb54263fc1b5d44dd </tarball-checksum>
 </plugin>
