@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://ci.appveyor.com/project/leamas/shipdriver-pi/builds/50777037 -->
+<plugin version="1">
+  <name> ShipDriver </name>
+  <version> 3.3.6+2062.93b4b0b </version>
+  <release> 0 </release>
+  <summary> Simulate ship movements </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/shipdriver_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/shipdriver.html </info-url>
+
+  <description> Simulates navigation of a vessel. Using the sail option and a current
+grib file for wind data, simulates how a sailing vessel might react in
+those conditions. Using 'Preferences' the simulator is able to record AIS
+data from itself. This can be replayed to simulate collision situations.
+ </description>
+
+  <target>msvc-wx32</target>
+  <target-version>10</target-version>
+  <target-arch>x86</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.3-msvc-wx32-10-tarball/versions/3.3.6+2062.93b4b0b/ShipDriver-3.3.6+2062.93b4b0b_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 15582e2320ba5bfae0dc9d7ad6a5da311618a9748756d8ce41b33b2f787f3fbe </tarball-checksum>
+</plugin>
