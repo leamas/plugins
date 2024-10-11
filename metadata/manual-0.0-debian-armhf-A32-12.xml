@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> manual </name>
+  <version> 0.0.1+353.7c2eecd </version>
+  <release> 0 </release>
+  <summary> Plugin and developer manual </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Alec Leamas </author>
+  <source> https://opencpn-manuals.github.io/main </source>
+  <info-url> https://opencpn-manuals.github.io/main </info-url>
+
+  <description> Off-line copies of the user, plugin and developer manuals
+available at https://opencpn-manuals.github.io/main
+
+This is a large download, currently around 170 Mb.
+ </description>
+
+  <target>debian-armhf</target>
+  <target-version>12</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-debian-armhf-A32-12-tarball/versions/0.0.1+353.7c2eecd/manual-0.0.1+353.7c2eecd_debian-armhf-12-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 2edef3c43401a7b64251c9166f2874917bd3c357042d4be69fdf09760f96ecc3 </tarball-checksum>
+</plugin>
