@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/leamas/shipdriver-pi/builds/51075301 -->
+<!-- https://ci.appveyor.com/project/leamas/shipdriver-pi/builds/51075479 -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.3.6+2068.327709e </version>
+  <version> 3.3.6+2069.fdc64e8 </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.3-msvc-wx32-10-tarball/versions/3.3.6+2068.327709e/ShipDriver-3.3.6+2068.327709e_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 3edea9498feb3fef3af44dc157062593fa43df99018e2c1ac9817f7e4fa94f03 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.3-msvc-wx32-10-tarball/versions/3.3.6+2069.fdc64e8/ShipDriver-3.3.6+2069.fdc64e8_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> b6f713399020e99536efc27ef1c94ce09e8c32853606e409db97edf9941b4731 </tarball-checksum>
 </plugin>
