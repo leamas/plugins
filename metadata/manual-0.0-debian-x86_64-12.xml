@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> manual </name>
-  <version> 0.0.1+429.e213336 </version>
+  <version> 0.0.1+440.f8c1d10 </version>
   <release> 0 </release>
   <summary> Plugin and developer manual </summary>
 
@@ -21,6 +21,6 @@ This is a large download, currently around 170 Mb.
   <target>debian-x86_64</target>
   <target-version>12</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-debian-x86_64-12-tarball/versions/0.0.1+429.e213336/manual-0.0.1+429.e213336_debian-x86_64-12-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 4fd0d66b1e1f0d630379423cf36425d841366fa1b9b8a8aec30885ce92fffead </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-debian-x86_64-12-tarball/versions/0.0.1+440.f8c1d10/manual-0.0.1+440.f8c1d10_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 17938e6607d6f0b4d1359ba456deed0e15771dbd7c1fe5c650082dbc61e1beb8 </tarball-checksum>
 </plugin>
