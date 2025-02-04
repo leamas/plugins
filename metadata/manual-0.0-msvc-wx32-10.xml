@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/leamas/manual-pi/builds/51437167 -->
+<!-- https://ci.appveyor.com/project/leamas/manual-pi/builds/51448476 -->
 <plugin version="1">
   <name> manual </name>
-  <version> 0.0.1+28.688f33a </version>
+  <version> 0.0.1+29.f8c1d10 </version>
   <release> 0 </release>
   <summary> Plugin and developer manual </summary>
 
@@ -21,6 +21,6 @@ This is a large download, currently around 170 Mb.
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-msvc-wx32-10-tarball/versions/0.0.1+28.688f33a/manual-0.0.1+28.688f33a_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> ab616bb8e1d25c9917d6c34429d16feccbf98fe04a81f83a0dc88e30d385738f </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-msvc-wx32-10-tarball/versions/0.0.1+29.f8c1d10/manual-0.0.1+29.f8c1d10_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> e0b282990b98fd4f23684c18d6e6490858f67768be0b6c6cbea4deac2839e78e </tarball-checksum>
 </plugin>
