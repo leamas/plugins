@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/leamas/manual_pi/430 -->
+<!-- https://circleci.com/gh/leamas/manual_pi/443 -->
 <plugin version="1">
   <name> manual </name>
-  <version> 0.0.1+430.e213336 </version>
+  <version> 0.0.1+443.f8c1d10 </version>
   <release> 0 </release>
   <summary> Plugin and developer manual </summary>
 
@@ -21,6 +21,6 @@ This is a large download, currently around 170 Mb.
   <target>android-arm64</target>
   <target-version>16</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-android-arm64-A64-16-tarball/versions/0.0.1+430.e213336/manual-0.0.1+430.e213336_android-arm64-16-arm64.tar.gz </tarball-url>
-  <tarball-checksum> 031f7cf5148375e74aefe16893cab14ef39f0d981b08c94695c93dc02faa3492 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/manual-0.0-android-arm64-A64-16-tarball/versions/0.0.1+443.f8c1d10/manual-0.0.1+443.f8c1d10_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 8645790b177e4b0096dfc7c092ac064f8b9b4c204edbe1aa8df613dccc94c910 </tarball-checksum>
 </plugin>
