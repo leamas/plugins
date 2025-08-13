@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/leamas/shipdriver_pi/21726 -->
+<plugin version="1">
+  <name> ShipDriver </name>
+  <version> 3.4.6+21726.db294c3 </version>
+  <release> 0 </release>
+  <summary> Simulate ship movements </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/shipdriver_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/shipdriver.html </info-url>
+
+  <description> Simulates navigation of a vessel. Using the sail option and a current
+grib file for wind data, simulates how a sailing vessel might react in
+those conditions. Using 'Preferences' the simulator is able to record AIS
+data from itself. This can be replayed to simulate collision situations.
+ </description>
+
+  <target>debian-x86_64</target>
+  <target-version>11</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.4-debian-x86_64-11-tarball/versions/3.4.6+21726.db294c3/ShipDriver-3.4.6+21726.db294c3_debian-x86_64-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 2e5e01aa2450ef8a73572eb973f78c0f60cb66c91f73724a6660301258e71032 </tarball-checksum>
+</plugin>
