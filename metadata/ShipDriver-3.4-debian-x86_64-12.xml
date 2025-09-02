@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.4.6+22207.43deb8e </version>
+  <version> 3.4.6+22226.63e0a25 </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>debian-x86_64</target>
   <target-version>12</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.4-debian-x86_64-12-tarball/versions/3.4.6+22207.43deb8e/ShipDriver-3.4.6+22207.43deb8e_debian-x86_64-12-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 4d6d0799a4b42a3453b69c66177c5c5ebc098f2701a8ad8b09417e149503fe89 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.4-debian-x86_64-12-tarball/versions/3.4.6+22226.63e0a25/ShipDriver-3.4.6+22226.63e0a25_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 08503720895b1b6caf7cc5102d0e187cecdcbf45fe11f0ec816343fed8b1f419 </tarball-checksum>
 </plugin>
