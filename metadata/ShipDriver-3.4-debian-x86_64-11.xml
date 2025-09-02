@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/leamas/shipdriver_pi/21943 -->
+<!-- https://circleci.com/gh/leamas/shipdriver_pi/21963 -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.4.6+21943.ad1ab41 </version>
+  <version> 3.4.6+21963.433cd7f </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>debian-x86_64</target>
   <target-version>11</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.4-debian-x86_64-11-tarball/versions/3.4.6+21943.ad1ab41/ShipDriver-3.4.6+21943.ad1ab41_debian-x86_64-11-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 1f984044607fb9d54e8356e6bfcde975a3aa6d90744f18e7c5dcce7bda157afc </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.4-debian-x86_64-11-tarball/versions/3.4.6+21963.433cd7f/ShipDriver-3.4.6+21963.433cd7f_debian-x86_64-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 7d40d5cd2e4c5a4530da72253577e732a4d92db154357d78c0a1cce40799ee5a </tarball-checksum>
 </plugin>
