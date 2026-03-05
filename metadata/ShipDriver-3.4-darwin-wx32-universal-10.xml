@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/leamas/shipdriver_pi/22662 -->
+<!-- https://circleci.com/gh/leamas/shipdriver_pi/22671 -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.4.7+22662.fe92a28 </version>
+  <version> 3.4.7+22671.9d6d61e </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.4-darwin-wx32-universal-10-tarball/versions/3.4.7+22662.fe92a28/ShipDriver-3.4.7+22662.fe92a28_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> e243ee8205a3ec2f822c9f9888e161a8aa1ca56a482bb6957c4c27b3f5c9cdd4 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.4-darwin-wx32-universal-10-tarball/versions/3.4.7+22671.9d6d61e/ShipDriver-3.4.7+22671.9d6d61e_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> f3a974ea582519f53b7ccdd38c5fb6b3bfa89e5e407959083e9b893836222887 </tarball-checksum>
 </plugin>
