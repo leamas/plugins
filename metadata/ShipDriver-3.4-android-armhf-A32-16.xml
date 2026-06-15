@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/leamas/shipdriver_pi/23073 -->
+<!-- https://circleci.com/gh/leamas/shipdriver_pi/23103 -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.4.7+23073.bbb25b0 </version>
+  <version> 3.4.7+23103.2de4727 </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>android-armhf</target>
   <target-version>16</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.4-android-armhf-A32-16-tarball/versions/3.4.7+23073.bbb25b0/ShipDriver-3.4.7+23073.bbb25b0_android-armhf-16-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 2d7aee0c900b89f396f888009124fae1c2d7e96dcee0e7a854f0c48888664a32 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.4-android-armhf-A32-16-tarball/versions/3.4.7+23103.2de4727/ShipDriver-3.4.7+23103.2de4727_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> c8a506ec171a5b06bc5cab2d770c8170e5c153fe771a0d5d2673c65e9bd13840 </tarball-checksum>
 </plugin>
