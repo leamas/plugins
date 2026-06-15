@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/leamas/shipdriver_pi/23081 -->
+<!-- https://circleci.com/gh/leamas/shipdriver_pi/23097 -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.4.7+23081.bbb25b0 </version>
+  <version> 3.4.7+23097.2de4727 </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>flatpak-aarch64</target>
   <target-version>24.08</target-version>
   <target-arch>aarch64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.4-flatpak-aarch64-A64-24.08-tarball/versions/3.4.7+23081.bbb25b0/ShipDriver-3.4.7+23081.bbb25b0_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> 6def5a6ac72befa730bffe26ab21099d538dfd4e694b33fa5fc73fe386aabbf5 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/alec-leamas/opencpn-plugins-unstable/raw/names/ShipDriver-3.4-flatpak-aarch64-A64-24.08-tarball/versions/3.4.7+23097.2de4727/ShipDriver-3.4.7+23097.2de4727_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> 9d9aafd650c711a73a067e20b269820092f00b28faeada797545822385cfc22a </tarball-checksum>
 </plugin>
